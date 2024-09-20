@@ -1,0 +1,26 @@
+hello:ahoy
+hi:yo-ho-ho
+pardon me:avast
+excuse me:arrr
+my:me
+friend:me bucko
+sir:matey
+madam:proud beauty
+stranger:scurvy dog
+officer:foul blaggart
+where:whar
+is:be
+the:th'
+you:ye
+tell:be tellin
+know:be knowin
+how far:how many leagues
+old:barnacle-covered
+attractive:comely
+happy:grog-filled
+nearby:broadside
+restroom:head
+restaurant:galley
+hotel:fleabag inn
+pub:Skull & Scuppers
+bank:buried treasure
